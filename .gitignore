@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+
+# Xcode — user-specific state, derived products, archives
+build/
+DerivedData/
+*.xcarchive
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Packages/
+Package.pins
+Package.resolved
+
+# Profiling / coverage
+*.profraw
+default.profraw
+*.gcov
+*.gcno
+*.gcda
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
