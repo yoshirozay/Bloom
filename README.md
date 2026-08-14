@@ -9,12 +9,8 @@ I wanted a meditation app that did not ask you to sit down and close everything.
 [Download for macOS](https://carsonosullivan.com/downloads/Bloom.dmg) · macOS 14+
 
 <p align="center">
-  <a href="docs/bloom.mp4">
-    <img src="docs/bloom.png" width="720" alt="Bloom — a glowing flower breathing over the macOS desktop">
-  </a>
+  <img src="docs/bloom.gif" width="720" alt="Bloom — a glowing flower breathing over the macOS desktop">
 </p>
-
-[Watch the demo](docs/bloom.mp4)
 
 ## What it does
 
@@ -41,7 +37,7 @@ Known bug: it struggles on more than one monitor. I have not fixed that yet.
 
 ## Status
 
-It works. Last build April 2026. I am not taking feature PRs unless you want to fix the multi-monitor thing.
+It works. Last build April 2026. PRs welcome, especially the multi-monitor bug.
 
 ## License
 
